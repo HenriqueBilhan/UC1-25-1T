@@ -1,0 +1,23 @@
+Sistema de gerenciamentos de eventos 
+
+ 
+
+Requisitos Funcionais 
+
+O sistema deve permitir que o cliente marque a data e horário do evento no site. 
+
+O sistema deve dar opções de pagamento: (via pix, cartão). 
+
+O sistema deve ter um questionário sobre que tipo de evento que ele deseja. 
+
+Requisitos não funcionais 
+
+O sistema deve ser capaz de agendar 3 eventos por semana no máximo, e 10 eventos por mês. 
+
+O sistema deve ser acessível via web de um modo que os clientes possam acessar tanto em celular quanto em computadores e tablets. 
+
+O sistema deve ter uma face abstrata, moderna e intuitiva para facilitar e passar boa imagem aos clientes. 
+
+O sistema deve ter um tempo de resposta de no máximo 2 segundos. 
+
+ 
